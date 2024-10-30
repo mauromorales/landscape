@@ -3568,7 +3568,7 @@ landscape:
             twitter: https://twitter.com/vmwarensx
             crunchbase: https://www.crunchbase.com/organization/vmware
       - subcategory:
-        name: Operating Systems
+        name: Runtime Systems
         items:
           - item:
             name: Flatcar Container Linux
